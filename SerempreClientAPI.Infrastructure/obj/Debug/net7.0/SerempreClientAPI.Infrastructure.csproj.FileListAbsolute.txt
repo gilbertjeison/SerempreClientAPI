@@ -1,0 +1,17 @@
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\bin\Debug\net7.0\SerempreClientAPI.Infrastructure.deps.json
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\bin\Debug\net7.0\SerempreClientAPI.Infrastructure.runtimeconfig.json
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\bin\Debug\net7.0\SerempreClientAPI.Infrastructure.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\bin\Debug\net7.0\SerempreClientAPI.Infrastructure.pdb
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\bin\Debug\net7.0\SerempreClientAPI.Domain.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\bin\Debug\net7.0\SerempreClientAPI.Domain.pdb
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\SerempreClientAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\SerempreClientAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\SerempreClientAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\SerempreClientAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\SerempreClientAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\SerempreClientAPI.Infrastructure.csproj.CopyComplete
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\SerempreClientAPI.Infrastructure.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\refint\SerempreClientAPI.Infrastructure.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\SerempreClientAPI.Infrastructure.pdb
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\SerempreClientAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Infrastructure\obj\Debug\net7.0\ref\SerempreClientAPI.Infrastructure.dll

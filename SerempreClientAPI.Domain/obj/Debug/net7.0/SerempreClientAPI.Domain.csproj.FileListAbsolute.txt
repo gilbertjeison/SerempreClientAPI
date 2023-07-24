@@ -1,0 +1,12 @@
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\bin\Debug\net7.0\SerempreClientAPI.Domain.deps.json
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\bin\Debug\net7.0\SerempreClientAPI.Domain.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\bin\Debug\net7.0\SerempreClientAPI.Domain.pdb
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\obj\Debug\net7.0\SerempreClientAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\obj\Debug\net7.0\SerempreClientAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\obj\Debug\net7.0\SerempreClientAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\obj\Debug\net7.0\SerempreClientAPI.Domain.AssemblyInfo.cs
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\obj\Debug\net7.0\SerempreClientAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\obj\Debug\net7.0\SerempreClientAPI.Domain.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\obj\Debug\net7.0\refint\SerempreClientAPI.Domain.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\obj\Debug\net7.0\SerempreClientAPI.Domain.pdb
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain\obj\Debug\net7.0\ref\SerempreClientAPI.Domain.dll

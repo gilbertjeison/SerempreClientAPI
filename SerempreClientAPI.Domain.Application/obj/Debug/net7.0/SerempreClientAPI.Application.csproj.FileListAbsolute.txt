@@ -1,0 +1,17 @@
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\bin\Debug\net7.0\SerempreClientAPI.Application.deps.json
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\bin\Debug\net7.0\SerempreClientAPI.Application.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\bin\Debug\net7.0\SerempreClientAPI.Application.pdb
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\bin\Debug\net7.0\SerempreClientAPI.Domain.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\bin\Debug\net7.0\SerempreClientAPI.Infrastructure.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\bin\Debug\net7.0\SerempreClientAPI.Infrastructure.pdb
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\bin\Debug\net7.0\SerempreClientAPI.Domain.pdb
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\SerempreClientAPI.Application.csproj.AssemblyReference.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\SerempreClientAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\SerempreClientAPI.Application.AssemblyInfoInputs.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\SerempreClientAPI.Application.AssemblyInfo.cs
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\SerempreClientAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\SerempreClientAPI.Application.csproj.CopyComplete
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\SerempreClientAPI.Application.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\refint\SerempreClientAPI.Application.dll
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\SerempreClientAPI.Application.pdb
+C:\Users\DevMaster\OneDrive\Projects\.Net\SerempreClientAPI\SerempreClientAPI.Domain.Application\obj\Debug\net7.0\ref\SerempreClientAPI.Application.dll
